@@ -13,8 +13,13 @@ Objetivos:
 Se trabajo el siguiente archivo en Jupyter: https://github.com/JuanPa2608/Internet-Argentina/blob/main/ETL/ETL.ipynb
 
 1- Se importó toda la información disponibles en la API, teniendo algunas respuestas al request de 500 indicando errores desconocidos.
+
 2- La data importada cuenta con una columna de tags, se filtró los guids que estén relacionados a internet.
+
 3- Incursionando en la página, se agregó manualmente otros guids relacionados o que puedan ser útiles para el análisis.
+
 4- Con el fin de realizar un análisis personalizado, se importa también datos de latitud y longitud por localidad y provincia.
+
 5- Finalmente toda la data extraída se pone a disposición en la carpeta https://github.com/JuanPa2608/Internet-Argentina/tree/main/datasets/Fuente 
+
 #  <em> Análisis Exploratorio de Datos (EDA) </em>
