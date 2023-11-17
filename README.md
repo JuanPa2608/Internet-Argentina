@@ -23,3 +23,6 @@ Se trabajo el siguiente archivo en Jupyter: https://github.com/JuanPa2608/Intern
 5- Finalmente toda la data extraída se pone a disposición en la carpeta https://github.com/JuanPa2608/Internet-Argentina/tree/main/datasets/Fuente 
 
 #  <em> Análisis Exploratorio de Datos (EDA) </em>
+## GUID: ACCES-A-INTER-FIJO-16249
+Número de accesos al servicio de Internet fijo por velocidad de bajada en cada localidad declarada
+
