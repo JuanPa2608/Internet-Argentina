@@ -61,4 +61,8 @@ Número total de accesos al servicio de Internet fijo por banda ancha y banda an
 
 3- Se une a la tabla de Provincia con latitud y longitud para dashboard. Archivo: https://github.com/JuanPa2608/Internet-Argentina/blob/main/datasets/Fuente/Provincias.parquet
 
-4- Se guarda el nuevo dataframe generado en el archivo parquet: https://github.com/JuanPa2608/Internet-Argentina/blob/main/datasets/dataset_vis/vis_BANDA-ANCHA-Y-BANDA-ANGOS.csv
+4- En el grafico 'Conexiones por Provincia' se observa que las provincias Chubut, Mendoza y Santa Fe al contar con mas de 1000 conexiones encabezan la cantidad de conexiones. Mientras que los que cuentan con menor cantidad de conexiones son la Capital Federal y Buenos Aires lo cual podría indicar que no son las cantidades correspondientes, se necesita revisar a la fuente de datos.
+
+<p align="center"> <img width="600" height="540" src = "https://raw.githubusercontent.com/JuanPa2608/Internet-Argentina/main/scr/scatter_BANDA-ANCHA-Y-BANDA-ANGOS.png"> </p>
+
+5- Se guarda el nuevo dataframe generado en el archivo parquet: https://github.com/JuanPa2608/Internet-Argentina/blob/main/datasets/dataset_vis/vis_BANDA-ANCHA-Y-BANDA-ANGOS.csv
