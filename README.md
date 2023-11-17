@@ -55,7 +55,7 @@ Número total de accesos al servicio de Internet fijo por banda ancha y banda an
 
 2- Se totaliza los tipos de conexiones por Provincia.
 
-3- Se une a la tabla de Provincia con latitud y longitud para dashboard. Archivo: [datasets/Fuente/Provincias.parquet](https://github.com/JuanPa2608/Internet-Argentina/blob/main/datasets/Fuente/Provincias.parquet)
+3- Se une a la tabla de Provincia con latitud y longitud para dashboard. Archivo: https://github.com/JuanPa2608/Internet-Argentina/blob/main/datasets/Fuente/Provincias.parquet
 
 4- Se grafica un pairplot con las variables numéricas, mostrándose:
 
