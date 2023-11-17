@@ -49,7 +49,7 @@ Número de accesos al servicio de Internet fijo por velocidad de bajada en cada 
 6- Se guarda el nuevo dataframe generado en el archivo parquet: https://github.com/JuanPa2608/Internet-Argentina/blob/main/datasets/dataset_vis/vis_ACCES-A-INTER-FIJO-16249.csv
 
 ## GUID: BANDA-ANCHA-Y-BANDA-ANGOS
-Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral). De acuerdo a https://www.adslzone.net/esenciales/preguntas/que-es-banda-ancha/ , uno de los tipos de banda estrecha o angosta es dial up. Por lo cual la columna 'Total' debería ser la suma de 'Banda ancha fija' y 'Dial up'. Script:https://github.com/JuanPa2608/Internet-Argentina/blob/main/EDA/EDA_BANDA-ANCHA-Y-BANDA-ANGOS.ipynb
+Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral). De acuerdo a https://www.adslzone.net/esenciales/preguntas/que-es-banda-ancha/ , uno de los tipos de banda estrecha o angosta es dial up. Por lo cual la columna 'Total' debería ser la suma de 'Banda ancha fija' y 'Dial up'. Script: https://github.com/JuanPa2608/Internet-Argentina/blob/main/EDA/EDA_BANDA-ANCHA-Y-BANDA-ANGOS.ipynb
 
 1- Se normaliza el tipo de variables, duplicados y nulos.
 
