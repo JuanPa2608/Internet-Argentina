@@ -8,6 +8,9 @@ Objetivos:
 
 <p align="center"> <img width="600" height="350" src = "https://tn.com.ar/resizer/eNimDERtuXj0kwzOz9ZA1HYKKas=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/D3TWUMYFS5A3RJEEEQVTHCIFFU.png"> </p>
 
+Realizado por: Juan Pablo Espinoza Cortez
+GitHub: https://github.com/JuanPa2608
+Linkedin: https://www.linkedin.com/in/juan-pablo-espinoza-cortez-977013170/
 #  <em> Extracción, Transformación y Carga (ETL) </em>
 
 Se trabajo el siguiente archivo en Jupyter: https://github.com/JuanPa2608/Internet-Argentina/blob/main/ETL/ETL.ipynb
