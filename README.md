@@ -6,5 +6,4 @@ Objetivos:
 - Identificar oportunidades de crecimiento
 - Soluciones personalizadas
 
-<p align="center"> <img width="600" height="330" 
-src = "https://tn.com.ar/resizer/eNimDERtuXj0kwzOz9ZA1HYKKas=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/D3TWUMYFS5A3RJEEEQVTHCIFFU.png"> </p>
+<p align="center"> <img width="600" height="350" src = "https://tn.com.ar/resizer/eNimDERtuXj0kwzOz9ZA1HYKKas=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/D3TWUMYFS5A3RJEEEQVTHCIFFU.png"> </p>
