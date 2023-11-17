@@ -48,6 +48,8 @@ Número de accesos al servicio de Internet fijo por velocidad de bajada en cada 
 
 - Los que cuentan con menor cantidad de conexiones son 12 de Octubre, Lucas Monteverde y Vásquez juntos con la sección Otros.
 
+<p align="center"> <img width="600" height="540" src = "https://raw.githubusercontent.com/JuanPa2608/Internet-Argentina/main/scr/scatter_ACCES-A-INTER-FIJO-16249.png"> </p>
+
 6- Se guarda el nuevo dataframe generado en el archivo parquet: https://github.com/JuanPa2608/Internet-Argentina/blob/main/datasets/dataset_vis/vis_ACCES-A-INTER-FIJO-16249.csv
 
 ## GUID: BANDA-ANCHA-Y-BANDA-ANGOS
