@@ -6,4 +6,4 @@ Objetivos:
 - Identificar oportunidades de crecimiento
 - Soluciones personalizadas
   
-![Point_Argentina](https://github.com/JuanPa2608/Internet-Argentina/assets/99778360/09e5b245-f0d2-41d9-b213-59867b6c2931)
+<p align="center"> ![Point_Argentina](https://github.com/JuanPa2608/Internet-Argentina/assets/99778360/09e5b245-f0d2-41d9-b213-59867b6c2931) </p>
