@@ -39,6 +39,8 @@ Número de accesos al servicio de Internet fijo por velocidad de bajada en cada 
 - De acuerdo a la data, se presentan mayor cantidad de conexiones en la zona este (mayor longitud).
 
 - La concentración de datos se presentan en los lugares de mayor latitud y longitud, es decir al noreste de Argentina. Es decir, se presentan mas conexiones en esa zona que corresponde a la capital Buenos Aires.
+  
+<p align="center"> <img width="600" height="350" src = "https://raw.githubusercontent.com/JuanPa2608/Internet-Argentina/main/scr/pairplot_ACCES-A-INTER-FIJO-16249.png" > </p>
 
 5- Se grafica un scatterplot con las conexiones por localidad, mostrándose:
 
