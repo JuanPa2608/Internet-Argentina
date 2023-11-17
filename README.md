@@ -24,5 +24,26 @@ Se trabajo el siguiente archivo en Jupyter: https://github.com/JuanPa2608/Intern
 
 #  <em> Análisis Exploratorio de Datos (EDA) </em>
 ## GUID: ACCES-A-INTER-FIJO-16249
-Número de accesos al servicio de Internet fijo por velocidad de bajada en cada localidad declarada
+Número de accesos al servicio de Internet fijo por velocidad de bajada en cada localidad declarada.
 
+1- Se normaliza el tipo de variables, duplicados y nulos.
+
+2- Se totaliza todas las conexiones por Localidad.
+
+3- Se une a la tabla de Localidad con latitud y longitud para dashboard.
+
+4- Se grafica un pairplot con las variables numéricas, mostrándose:
+
+- De acuerdo a la data, se presentan mayor cantidad de conexiones en la zona norte (mayor latitud).
+
+- De acuerdo a la data, se presentan mayor cantidad de conexiones en la zona este (mayor longitud).
+
+- La concentración de datos se presentan en los lugares de mayor latitud y longitud, es decir al noreste de Argentina. Es decir, se presentan mas conexiones en esa zona que corresponde a la capital Buenos Aires.
+
+5- Se grafica un scatterplot con las conexiones por localidad, mostrándose:
+
+- Las localidades Avellanda, Arrecifes y Adrogué al contar con mas de 2500 conexiones encabezan la cantidad de conexiones.
+
+- Los que cuentan con menor cantidad de conexiones son 12 de Octubre, Lucas Monteverde y Vásquez juntos con la sección Otros.
+
+6- Se guarda el nuevo dataframe generado en el archivo parquet: https://github.com/JuanPa2608/Internet-Argentina/blob/main/datasets/dataset_vis/vis_ACCES-A-INTER-FIJO-16249.csv
