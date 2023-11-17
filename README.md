@@ -30,7 +30,7 @@ Número de accesos al servicio de Internet fijo por velocidad de bajada en cada 
 
 2- Se totaliza todas las conexiones por Localidad.
 
-3- Se une a la tabla de Localidad con latitud y longitud para dashboard. Archivo: https://github.com/JuanPa2608/Internet-Argentina/blob/main/datasets/Fuente/Provincias.parquet
+3- Se une a la tabla de Localidad con latitud y longitud para dashboard. Archivo: https://github.com/JuanPa2608/Internet-Argentina/blob/main/datasets/Fuente/Localidades.parquet
 
 4- Se grafica un pairplot con las variables numéricas, mostrándose:
 
