@@ -12,7 +12,7 @@ Objetivos:
 
 Se trabajo el siguiente archivo en Jupyter: https://github.com/JuanPa2608/Internet-Argentina/blob/main/ETL/ETL.ipynb
 
-1- Se importó toda la información disponibles en la API, teniendo algunas respuestas al request de 500 indicando errores desconocidos.
+1- Se importó toda la información disponibles en la API.
 
 2- La data importada cuenta con una columna de tags, se filtró los guids que estén relacionados a internet.
 
